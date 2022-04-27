@@ -1,6 +1,7 @@
 # Sobre mim 
 
 - 👋 Oi, meu nome é @ericazapata;
+- ✨ Meu email de contato é erica.erhardt@escola.pr.gov.br
 - 👀 Estou interessada em aprender a programar novas linguagens;
 - 🌱 Estou aprendendo a programar a linguagem de JavaScript e Scratch.
 
